@@ -1,0 +1,7 @@
+{
+  "best_f1_model": "Random Forest",
+  "best_f1_score": 0.8571,
+  "best_auc_model": "Logistic Regression",
+  "best_auc_score": 0.8818,
+  "recommended_model": "Random Forest"
+}
